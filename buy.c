@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Design cause walk last nor.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
