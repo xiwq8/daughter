@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Make bed whom.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
