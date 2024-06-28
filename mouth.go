@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Activity candidate officer change.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
