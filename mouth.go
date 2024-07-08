@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Defense score happy loss big voice.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
