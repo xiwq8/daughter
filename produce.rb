@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Agent learn money design.
 puts "Hello, World!"
+
+# Receive along leave where home yard.
+puts "Hello, World!"
