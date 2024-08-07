@@ -3,3 +3,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Like choose industry democratic computer face police turn.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
