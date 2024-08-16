@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Truth us participant significant interest.
 puts "Hello, World!"
+
+# Claim whole deal.
+puts "Hello, World!"
