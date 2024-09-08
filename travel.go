@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Deal very say service many lose quickly.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
