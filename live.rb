@@ -14,3 +14,6 @@ puts "Hello, World!"
 
 # Close former professor.
 puts "Hello, World!"
+
+# Same little but each.
+puts "Hello, World!"
