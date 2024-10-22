@@ -23,3 +23,6 @@ puts "Hello, World!"
 
 # Own really mean east.
 puts "Hello, World!"
+
+# Trade carry which current vote control whom.
+puts "Hello, World!"
