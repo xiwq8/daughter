@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Put face level.
 console.log("Hello, World!");
+
+# Close likely money result.
+console.log("Hello, World!");
